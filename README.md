@@ -3,7 +3,7 @@
 ## Requirements for launch
 You need Python 3.7+ version, time module (python built-in) and [pygame](https://pypi.org/project/pygame/) to launch the game.
 
-If you don't have pygame package, use the pip to install it:
+If you don't have pygame package, use the pip (in terminal) to install it:
 ```bash
 pip install pygame
 ```
