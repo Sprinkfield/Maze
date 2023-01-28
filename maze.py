@@ -275,10 +275,10 @@ def main():
         game_clock.tick(FPS)
         pygame.display.flip()
 
-    if defeat is True:
+    if defeat:
         new_background = pygame.image.load("images/game_over.png")
         render_end_screen(screen, game_clock, new_background, start_time, False)
-    elif victory is True:
+    elif victory:
         new_background = pygame.image.load("images/victory.png")
         render_end_screen(screen, game_clock, new_background, start_time, True)
 
