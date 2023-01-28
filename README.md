@@ -12,7 +12,7 @@ pip install pygame
 Execute the **maze.py** file.
 
 ## Controls & Gameplay
-- Use arrow buttons or WASD to move.
+- Use arrow keys or WASD to move.
 - Press the space button to shoot.
 - To win the game, you need to get to the star object in the bottom left corner of the screen.
 - You also can collect bonus strawberry object.
